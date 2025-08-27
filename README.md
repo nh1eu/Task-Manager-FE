@@ -1,7 +1,9 @@
-Account demo for Admin:
-hung@gmail.com
-test@123
+## Demo Accounts
 
-Acount demo for user:
-dung@gm.com
-test@123
+**Admin Account**  
+- Email: `hung@gmail.com`  
+- Password: `test@123`  
+
+**User Account**  
+- Email: `dung@gm.com`  
+- Password: `test@123`  
